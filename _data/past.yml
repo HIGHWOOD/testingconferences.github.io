@@ -20,6 +20,12 @@
   location: Prague, Czech Republic
   dates: "October 12, 2023"
   url: https://www.tesena.com/en/tesena-fest-2023?utm_source=testingconferences
+
+- name: Testnet Najaarsevenement 2023
+  location: DeFabrique, Utrecht, NL
+  dates: "October 11, 2023"
+  url: https://www.testnet.org/evenement/entry/6515/?evenement=najaarsevenement
+  twitter: TestNetNL
   
 - name: Pacific Northwest Software Quality Conference (PNSQC) 2023
   location: Portland, Oregon, USA
@@ -336,6 +342,12 @@
   location: Online
   dates: "May 15-16, 2023"
   url: https://www.qatouch.com/global-testers-summit-2023/?utm_source=testingconferences
+
+- name: Testnet Voorjaarsevenement 2023
+  location: DeFabrique, Utrecht, NL
+  dates: "May 9, 2023"
+  url: https://www.testnet.org/evenement/entry/6495/?evenement=voorjaarsevenement
+  twitter: TestNetNL
 
 - name: STAREAST 2023
   location: Orlando, FL, USA and Online

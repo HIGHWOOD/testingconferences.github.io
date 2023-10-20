@@ -1,3 +1,17 @@
+- name: Test Automation Days 2024
+  location: De DolenICC, Rotterdam, NL
+  dates: "May 29-30, 2024"
+  url: https://www.testautomationdays.com/
+  twitter: testautomationd
+  status: <a href="https://www.testautomationdays.com/registration" target="_blank">Registration</a> is Open
+
+- name: Nederlandse Testdag 2023
+  location: Open University of the Netherlands, Heerlen, NL
+  dates: "June 2, 2023"
+  url: https://testdag.nl/
+  twitter: NLTestdag
+  status: <a href="https://testdag.testar.org/#registration" target="_blank">Registration</a> is Open
+
 - name: QA & TEST Embedded 2023
   location: Bilbao, Spain
   dates: "October 18-20, 2023"
